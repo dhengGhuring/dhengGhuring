@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Bootstrap, Web Dev, Android**
+- 💬 Ask me about **Bootstrap, Web Dev, Android, Linux, Programming**
 
 - 📫 How to reach me **wyvrendragon@gmail.com**
 
