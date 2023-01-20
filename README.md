@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhengghuring&label=Profile%20views&color=0e75b6&style=flat" alt="dhengghuring" /> </p>
 
-- 🔭 I’m currently Intern on Telkom Indonesia **SVCC**
+- 🔭 I’m currently Work on Andalan Solusi Cemerlang **ASC**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **Bootstrap, Web Dev, Android, Linux, Programming**
+- 💬 Ask me about **FrontEnd Dev, Web Dev, Android, Linux, Programming, Ricing Linux**
 
 - 📫 How to reach me **ridhoanantab@gmail.com**
 
-- ⚡ Fun fact **I like retro stuff**
+- ⚡ Fun fact **I like retro stuff and rice my linux desktop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
