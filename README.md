@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Bootstrap, Web Dev, Android, Linux, Programming**
 
-- 📫 How to reach me **wyvrendragon@gmail.com**
+- 📫 How to reach me **ridhoanantab@gmail.com**
 
 - ⚡ Fun fact **I like retro stuff**
 
