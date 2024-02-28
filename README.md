@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Andalan Solusi Cemerlang ASC<br>🌱 I’m currently learning Next JS<br>💬 Ask me about FrontEnd Dev, Web Dev, Android, Linux, Programming, Ricing Linux<br>⚡ Fun fact I like retro stuff and rice my Linux desktop<br>📫 How to reach me ridhoanantab@gmail.com
+🔭 I’m currently working on Andalan Solusi Cemerlang ASC<br>🌱 I’m currently learning React Native<br>💬 Ask me about FrontEnd Dev, Web Dev, Android, Linux, Programming, Ricing Linux<br>⚡ Fun fact I like retro stuff and rice my Linux desktop<br>📫 How to reach me ridhoanantab@gmail.com
 
 
 ## 🌐 Socials:
